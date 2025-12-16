@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "company": "Vodafone Idea",
+    "open": "2024-06-01",
+    "close": "2024-06-04",
+    "priceBand": "₹380 - ₹390",
+    "lotSize": 36,
+    "issueSize": "2300 Cr",
+    "sector": "Telecom",
+    "status": "Upcoming"
+  },
+  {
+    "id": 2,
+    "company": "Ola Electric Mobility",
+    "open": "2024-06-05",
+    "close": "2024-06-07",
+    "priceBand": "₹72 - ₹76",
+    "lotSize": 195,
+    "issueSize": "5500 Cr",
+    "sector": "EV / Automobile",
+    "status": "Upcoming"
+  },
+  {
+    "id": 3,
+    "company": "Tata Technologies",
+    "open": "2024-05-20",
+    "close": "2024-05-22",
+    "priceBand": "₹475 - ₹500",
+    "lotSize": 30,
+    "issueSize": "3000 Cr",
+    "sector": "IT Services",
+    "status": "Listed"
+  },
+  {
+    "id": 4,
+    "company": "Paytm Payments Bank",
+    "open": "2024-05-15",
+    "close": "2024-05-17",
+    "priceBand": "₹210 - ₹215",
+    "lotSize": 65,
+    "issueSize": "1800 Cr",
+    "sector": "Fintech",
+    "status": "Closed"
+  },
+  {
+    "id": 5,
+    "company": "FirstCry",
+    "open": "2024-06-10",
+    "close": "2024-06-12",
+    "priceBand": "₹440 - ₹465",
+    "lotSize": 32,
+    "issueSize": "4200 Cr",
+    "sector": "E-Commerce",
+    "status": "Upcoming"
+  },
+  {
+    "id": 6,
+    "company": "Ixigo",
+    "open": "2024-06-03",
+    "close": "2024-06-06",
+    "priceBand": "₹88 - ₹93",
+    "lotSize": 160,
+    "issueSize": "1500 Cr",
+    "sector": "Travel Tech",
+    "status": "Ongoing"
+  },
+  {
+    "id": 7,
+    "company": "Ather Energy",
+    "open": "2024-06-18",
+    "close": "2024-06-20",
+    "priceBand": "₹300 - ₹320",
+    "lotSize": 45,
+    "issueSize": "2800 Cr",
+    "sector": "EV / Automobile",
+    "status": "Upcoming"
+  },
+  {
+    "id": 8,
+    "company": "Byju’s Learning",
+    "open": "2024-05-10",
+    "close": "2024-05-13",
+    "priceBand": "₹250 - ₹270",
+    "lotSize": 55,
+    "issueSize": "2000 Cr",
+    "sector": "EdTech",
+    "status": "Closed"
+  },
+  {
+    "id": 9,
+    "company": "MobiKwik",
+    "open": "2024-06-08",
+    "close": "2024-06-11",
+    "priceBand": "₹265 - ₹279",
+    "lotSize": 53,
+    "issueSize": "1900 Cr",
+    "sector": "Fintech",
+    "status": "Upcoming"
+  },
+  {
+    "id": 10,
+    "company": "Snapdeal",
+    "open": "2024-06-14",
+    "close": "2024-06-17",
+    "priceBand": "₹310 - ₹330",
+    "lotSize": 40,
+    "issueSize": "2600 Cr",
+    "sector": "E-Commerce",
+    "status": "Upcoming"
+  },
+  {
+    "id": 11,
+    "company": "Zet Finance",
+    "open": "2024-06-02",
+    "close": "2024-06-04",
+    "priceBand": "₹155 - ₹165",
+    "lotSize": 90,
+    "issueSize": "1200 Cr",
+    "sector": "Fintech",
+    "status": "Ongoing"
+  },
+  {
+    "id": 12,
+    "company": "PharmEasy",
+    "open": "2024-06-22",
+    "close": "2024-06-25",
+    "priceBand": "₹410 - ₹430",
+    "lotSize": 28,
+    "issueSize": "3500 Cr",
+    "sector": "Healthcare",
+    "status": "Upcoming"
+  }
+]
